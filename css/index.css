@@ -1,0 +1,68 @@
+.github {
+   background-image: url("../img/github_front.png");
+   height:120px;
+   width:150px;  
+}
+
+.github:hover {
+   background-image: url("../img/github_bac.png");
+   height:136px;
+   width:170px;  
+} 
+
+.linkedin {
+   background-image: url("../img/linkedin_front.png");
+   height:130px;
+   width:130px;  
+}
+
+.linkedin:hover {
+   background-image: url("../img/linkedin_bac.png");
+   height:150px;
+   width:150px;;
+} 
+
+.googleplus {
+   background-image: url("../img/googleplus_front.png");
+   height:130px;
+   width:130px;  
+}
+.googleplus:hover {
+   background-image: url("../img/googleplus_bac.png");
+   height:150px;
+   width:150px;
+} 
+
+.twitter {
+   background-image: url("../img/twitter_front.png");
+   height:130px;
+   width:130px;  
+}
+
+.twitter:hover {
+   background-image: url("../img/twitter_bac.png");
+   height:150px;
+   width:150px;
+} 
+
+.blog {
+   background-image: url("../img/blog_front.png");
+   height:130px;
+   width:130px;  
+}
+.blog:hover {
+   background-image: url("../img/blog_bac.png");
+   height:150px;
+   width:150px;
+} 
+
+.facebook {
+   background-image: url("../img/facebook_front.png");
+   height:130px;
+   width:130px;  
+}
+.facebook:hover {
+   background-image: url("../img/facebook_bac.png");
+   height:150px;
+   width:150px;ss
+}
